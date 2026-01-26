@@ -1,1 +1,13 @@
-
+{
+  "cover": "https://pub-03107a31d2b74d229162ef805e24eed7.r2.dev/mirror.png",
+  "desc": "Jang Ho-yoon znajduje na ulicy lustro. Tej samej nocy wyłania się z niego tajemnicza postać, która niemal go gwałci. Przerażony Ho-yoon zakrywa lustro i próbuje zapomnieć o całym zdarzeniu… jednak od tamtej pory jego życie zaczyna układać się podejrzanie dobrze.",
+  "tags": ["BL", "+18", "Nadprzyrodzone"],
+  "chapters": {
+    "0": [
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/morrorrozdzialy/M%201-5.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/morrorrozdzialy/M%206-13.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/morrorrozdzialy/M%2014-23.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/morrorrozdzialy/M%2024-28.webp"
+    ]
+  }
+}
