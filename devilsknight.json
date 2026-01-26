@@ -1,1 +1,33 @@
-
+{
+  "cover": "https://pub-03107a31d2b74d229162ef805e24eed7.r2.dev/Devil's%20Knight.jpeg",
+  "desc": "Risbel Benedane jest najlepszym uczniem w akademii paladynów Deravilael, aż do momentu, gdy Kendon zabiera mu pierwsze miejsce. Jako syn zastępcy dowódcy paladynów, Risbel nie może udawać, że nic się nie stało, więc wzywa mare, by wszedł w sny Kendona i namieszał mu w głowie. Mara zgadza się, ale kosztem jego witalności. Plan wydaje się idealny… aż do chwili, gdy Risbel zauważa, że Kendon patrzy na niego inaczej. Czy to możliwe, że… się zarumieni?",
+  "tags": ["BL", "+18", "Nadprzyrodzone", "Dramat", "Rycerze", "Trójkąt miłosny", "Demony", "Życie szkolne"],
+  "chapters": {
+    "1": [
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/D%201-50.jpg",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/D%2051-89.jpg"
+    ],    
+    "2": [
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/2/D1-16.jpg",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/2/D17-30.jpg",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/2/D31-50.jpg",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/2/D51-72.jpg"
+    ],
+    "3": [
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/3/D1-30.jpg",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/3/D31-60.jpg"
+    ],
+    "4": [
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/4/D1-25.jpg",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/4/26%20s.jpg",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/4/D27-59.jpg"
+],
+    "5": [
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/5/D%201-9.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/5/D%2010-19.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/5/D%2020-29.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/5/D%2030-40.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/devilsknightrozdzialy/5/D%2041-47.webp"
+    ]
+  }
+}
