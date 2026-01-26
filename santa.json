@@ -1,1 +1,41 @@
-
+{
+  "cover": "https://pub-03107a31d2b74d229162ef805e24eed7.r2.dev/Santa.webp",
+  "desc": "Suho i Chiwon znają się od dziecka i razem należą do gangu Doksa. Gdy Suho, wspierany przez prezesa Kima, otwiera room salon, Chiwon zaczyna patrzeć na niego jak na zagrożenie i zastawia pułapkę, by go pogrążyć.",
+  "tags": ["BL", "+18", "Romans", "Dramat", "Mafia", "Różnica Wielkości"],
+  "chapters": {
+    "1": [
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/S%201-9.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/S%2010-16.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/S%2017-26.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/S%2027-35.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/S%2036-40.webp"
+    ],
+    "2": [
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/2/S%201-10.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/2/S%2011-23.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/2/S%2024-33.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/2/S%2034.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/2/S%2035-37.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/2/S%2038-46.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/2/S%2047-55.webp"
+    ],
+    "3": [
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%201-10.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2011.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2012-14.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2015-19.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2020-24.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2025-26.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2027-34.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2035-38.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2039.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2040-45.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2046.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2047.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2048-56.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2057-58.jpg",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2059-67.jpg",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/santa/3/S%2069-81.webp"
+    ]
+  }
+}
