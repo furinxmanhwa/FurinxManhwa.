@@ -1,1 +1,14 @@
-
+{
+  "cover": "https://pub-0d8188d0f04447a19e5ad7ca209fc462.r2.dev/swipeandplay/1%20s.png",
+  "desc": "Miłego czytania!",
+  "tags": ["BL", "+18", "Bohaterowie", "DC dj"],
+  "chapters": {
+    "1": [
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/sit/S%201-2.jpg",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/sit/S%201-5_inny.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/sit/S%206-10_inny.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/sit/S%2011-15_inny.webp",
+      "https://pub-9b851339398240699a792a411e7ece21.r2.dev/sit/S%2016-20_inny.webp"
+    ]
+  }
+}
